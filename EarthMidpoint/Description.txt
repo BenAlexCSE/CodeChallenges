@@ -1,0 +1,22 @@
+Benjamin Alexander
+
+Assignment: Write a module/package in Python or Javascript that implements a function with the following characteristics:
+1.       Input: two locations (“from” and “to”) each defined by a pair of latitude/longitude coordinates
+2.       Output: The midpoint on the shortest path between these two locations on the surface of the Earth
+Bonus points: Returning a path of N coordinates evenly spaced along the path
+
+
+
+To Run the application, open EarthMidpoint.exe
+
+
+
+The application will query the user for latitude and longitude for the first point
+
+Then the application will query the user for latitude and longitude for the second point
+
+The application will compute and display the midpoint
+
+The application will continue and ask the User to enter a number of points to find between our start point and our destination point
+
+The application will print N different points evenly spaced between our start point and our destination point.

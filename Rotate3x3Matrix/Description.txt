@@ -1,0 +1,7 @@
+Benjamin Alexander
+
+Assignment:
+
+This application rotates a 3x3 matric clockwise or counter clockwise.
+
+This algroithm works for and NxN matric.
