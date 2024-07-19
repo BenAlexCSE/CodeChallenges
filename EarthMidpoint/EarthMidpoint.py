@@ -10,7 +10,7 @@ Assignment: Write a module/package in Python or Javascript that implements a fun
 2.       Output: The midpoint on the shortest path between these two locations on the surface of the Earth
 Bonus points: Returning a path of N coordinates evenly spaced along the path
 
-Copyright (c) 2024 Henjamin Alexander. All rights reserved.
+Copyright (c) 2024 Benjamin Alexander. All rights reserved.
 """
 
 import math

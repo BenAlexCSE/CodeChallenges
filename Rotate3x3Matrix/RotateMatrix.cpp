@@ -8,7 +8,7 @@ Benjamin Alexander
 Assignment: This application rotates a 3x3 matric clockwise or counter clockwise.
 This algroithm works for and NxN matric.
 
-Copyright (c) 2024 Henjamin Alexander. All rights reserved.
+Copyright (c) 2024 Benjamin Alexander. All rights reserved.
 */
 
 #include <bits/stdc++.h>
@@ -17,7 +17,7 @@ using namespace std;
 #define N 5
  
 // Function to rotate the matrix 90 degree clockwise
-void rotate90Clockwise(int a[N][N], bool right)
+void rotate90(int a[N][N], bool right)
 {
     // Traverse each cycle
     for (int i = 0; i < N / 2; i++) {
