@@ -1,3 +1,16 @@
+/*
+LinkedListClassC++.cpp
+
+Benjamin Alexander
+
+7/17/2024
+
+Assignment: This application rotates a 3x3 matric clockwise or counter clockwise.
+This algroithm works for and NxN matric.
+
+Copyright (c) 2024 Henjamin Alexander. All rights reserved.
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
  

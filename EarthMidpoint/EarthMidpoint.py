@@ -1,13 +1,16 @@
 """
-Benjamin Alexander - benalexcse@gmail.com
+EarthMidpoint.py
 
+Benjamin Alexander
+
+7/17/2024
 
 Assignment: Write a module/package in Python or Javascript that implements a function with the following characteristics:
-
 1.       Input: two locations (“from” and “to”) each defined by a pair of latitude/longitude coordinates
 2.       Output: The midpoint on the shortest path between these two locations on the surface of the Earth
-
 Bonus points: Returning a path of N coordinates evenly spaced along the path
+
+Copyright (c) 2024 Henjamin Alexander. All rights reserved.
 """
 
 import math
